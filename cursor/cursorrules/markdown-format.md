@@ -1,0 +1,1 @@
+When generating markdown, surround content in entirety with FIVE backticks (`````) at beginning and the end. Use THREE backticks (```) for inner code blocks.
